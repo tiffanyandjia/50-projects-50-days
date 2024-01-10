@@ -5,7 +5,7 @@
 }
 
 body {
-  background-color: #d8a6ee;
+  background-color: #8cb37f;
   color: #fff;
   font-family: "Roboto Mono", sans-serif;
   display: flex;
@@ -20,6 +20,7 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: center;
+  text-align: center;
   margin: 30px 50px;
 }
 
